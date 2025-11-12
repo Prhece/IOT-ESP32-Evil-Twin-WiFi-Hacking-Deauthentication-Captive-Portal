@@ -137,6 +137,6 @@ This project is intended for **educational and ethical testing purposes** only. 
 ### 📦 **Repository Tags**
 ```
 ESP32, Evil Twin, WiFi Hacking, Deauthentication, Captive Portal, HTML, CSS, JavaScript, Cybersecurity, Ethical Hacking, ESP32 WiFi, IoT, WiFi Pentesting
-```
+####Evil twin created.I experinced a couple of issues.My phone could not identify my ESP32 WIFI,eventually it did,also it gets disconnected on my computer and i will ave to reload the Arduino a few times to start deauthing.
 
 ---
